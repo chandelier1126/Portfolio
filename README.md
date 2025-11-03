@@ -1,4 +1,4 @@
-# 🔬 **[본인 이름]**'s Bioinformatics & Systems Biology Portfolio
+# 🔬 **Gangtaek**'s Bioinformatics & Systems Biology Portfolio
 ### 생명공학 기반, 데이터 주도형 연구 역량 증명
 
 [![Field](https://img.shields.io/badge/Field-Systems_Biology_&_Aging_Research-blue)](README.md)
