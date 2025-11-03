@@ -3,7 +3,7 @@
 
 [![Field](https://img.shields.io/badge/Field-Systems_Biology_&_Aging_Research-blue)](README.md)
 [![Expertise](https://img.shields.io/badge/Expertise-Python%20%7C%20Data%20Analysis%20%7C%20Reproducibility-orange)](README.md)
-[![Contact](https://img.shields.io/badge/Email-Your_Email@example.com-red)](mailto:Your_Email@example.com)
+[![Contact](https://img.shields.io/badge/Email-Your_Email@example.com-red)](mailto:abrahamkim0619@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5)](링크_입력)
 
 ---
